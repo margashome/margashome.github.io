@@ -1,5 +1,5 @@
 var app = angular.module('blogApp', [
-  'ngRoute','ui.bootstrap'
+  'ngRoute', 'ui.bootstrap', 'blogApp.services'
 ]);
 
 /**
